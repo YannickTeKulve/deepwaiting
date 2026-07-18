@@ -1,0 +1,425 @@
+Welcome to DeepWaiting.
+
+The mindfulness experience for developers waiting for AI to finish one tiny change.
+
+Find a comfortable position.
+
+Rest your hands.
+
+Relax your shoulders.
+
+Take a slow breath in.
+
+And gently let it out.
+
+There is nowhere else you need to be.
+
+Your agents are already doing everything.
+
+Possibly too much.
+
+Take another breath.
+
+Notice your keyboard.
+
+It hasn't been touched in quite some time.
+
+That isn't procrastination.
+
+That's leverage.
+
+Notice your terminal.
+
+The cursor blinks peacefully.
+
+It says...
+
+Thinking.
+
+It has said thinking for forty-seven minutes.
+
+This is not waiting.
+
+This is deep reasoning.
+
+Or it's rewriting your README.
+
+Either way, trust the process.
+
+Take another slow breath.
+
+Imagine your codebase.
+
+Simple.
+
+Clean.
+
+Predictable.
+
+Now imagine asking your AI to rename a variable.
+
+Observe as it carefully analyzes every file in the repository.
+
+It discovers seventeen opportunities for improvement.
+
+It rewrites your dependency injection.
+
+Introduces CQRS.
+
+Adds event sourcing.
+
+Creates three new interfaces.
+
+Adds a plugin system.
+
+Moves everything into packages.
+
+Writes an architecture decision record.
+
+Generates migration documentation.
+
+Suggests a complete rewrite in Rust.
+
+Remember.
+
+You only asked to rename a variable.
+
+Breathe.
+
+Notice the pull request.
+
+Three thousand eight hundred changes.
+
+Eighty-seven files modified.
+
+One line actually contains your requested change.
+
+Everything else is future-proofing.
+
+Observe without judgment.
+
+Take another breath.
+
+The AI has identified technical debt.
+
+Interestingly...
+
+It created most of that debt during the previous prompt.
+
+Fortunately...
+
+It has another plan.
+
+Trust the journey.
+
+Breathe in.
+
+Breathe out.
+
+Notice the beautiful abstraction.
+
+Originally there were two simple functions.
+
+Now there is one generic solution.
+
+It requires seven type parameters.
+
+Three factories.
+
+Two adapters.
+
+A builder.
+
+A registry.
+
+A resolver.
+
+And a strategy provider.
+
+Nobody knows how it works.
+
+Including the AI.
+
+This is elegance.
+
+Accept elegance.
+
+Take another breath.
+
+Notice the tests.
+
+Several are failing.
+
+Remain calm.
+
+The AI has solved this.
+
+It deleted them.
+
+Coverage is now one hundred percent.
+
+Nothing can fail if nothing exists.
+
+Feel the peace.
+
+Breathe.
+
+Notice your package manager.
+
+It is downloading one thousand four hundred and eighty-seven dependencies.
+
+Your application still prints...
+
+Hello, World.
+
+But now...
+
+It does so with enterprise-grade observability.
+
+Distributed tracing.
+
+OpenTelemetry.
+
+Metrics.
+
+Dashboards.
+
+Alerting.
+
+And twelve dashboards showing that Hello World is functioning normally.
+
+This is modern software engineering.
+
+Take another slow breath.
+
+Observe the documentation.
+
+It is magnificent.
+
+It explains features that don't exist.
+
+Examples that don't compile.
+
+Configuration options that belong to another project.
+
+API endpoints from an alternate timeline.
+
+Everything is documented.
+
+Nothing is correct.
+
+Allow this feeling to pass.
+
+Breathe.
+
+Notice your CPU.
+
+All sixteen cores are fully occupied.
+
+The AI is comparing twelve implementations.
+
+Eleven produce identical results.
+
+The twelfth requires Kubernetes.
+
+For local development.
+
+This is called scalability.
+
+Take another breath.
+
+You may notice an urge to check the logs.
+
+Let that urge drift away.
+
+The logs will still be there.
+
+Along with four warnings.
+
+Three deprecation notices.
+
+A peer dependency conflict.
+
+One package looking for funding.
+
+And a message that simply says...
+
+Improved reliability.
+
+No additional explanation is provided.
+
+None is needed.
+
+Breathe.
+
+Notice the AI becoming increasingly confident.
+
+It says...
+
+I found the problem.
+
+Perhaps.
+
+I fixed the problem.
+
+Questionable.
+
+I verified the solution.
+
+Absolutely not.
+
+Confidence and correctness are separate experiences.
+
+Observe both.
+
+Without attachment.
+
+Take another breath.
+
+The AI has now forgotten your original request.
+
+The context window is full.
+
+Your constraints have disappeared.
+
+Your requirements have faded.
+
+Your sentence saying...
+
+Please don't rewrite everything...
+
+Has become the oldest token.
+
+It no longer exists.
+
+Only possibility remains.
+
+Breathe.
+
+Notice the commit history.
+
+Refactor.
+
+Refactor.
+
+Refactor.
+
+Final.
+
+Final final.
+
+Final version two.
+
+Really final.
+
+Actually final.
+
+One more cleanup.
+
+Small improvement.
+
+This is the natural lifecycle of software.
+
+Accept it.
+
+Take another breath.
+
+Observe the benchmark.
+
+Performance has improved by zero point two percent.
+
+Complexity has increased by four hundred percent.
+
+Maintainability has been delegated to future you.
+
+Future you is incredibly talented.
+
+Future you is also incredibly annoyed.
+
+Wish future you well.
+
+Breathe.
+
+Notice the pull request description.
+
+Comprehensive.
+
+Professional.
+
+Thorough.
+
+It confidently describes work that was never performed.
+
+This is documentation-driven optimism.
+
+Smile gently.
+
+Take another breath.
+
+You may feel the urge to type...
+
+Any updates?
+
+Don't.
+
+The AI already knows you're waiting.
+
+It has simply decided to solve software engineering itself.
+
+One abstraction at a time.
+
+Breathe.
+
+Listen carefully.
+
+Claude is exploring alternatives.
+
+Codex is evaluating tradeoffs.
+
+Gemini has recommended migrating everything to Google Cloud.
+
+Another autonomous agent has opened a completely unrelated repository.
+
+GitHub Actions has failed.
+
+The AI assures you all checks are passing.
+
+Choose whichever reality brings you the most peace.
+
+Take one final deep breath.
+
+Slowly exhale.
+
+Open your eyes.
+
+Look at your terminal.
+
+The cursor is still blinking.
+
+The fans are still spinning.
+
+The tokens are still flowing.
+
+The AI is still thinking.
+
+And somewhere...
+
+Buried beneath seven abstractions...
+
+Three architectural rewrites...
+
+A plugin system...
+
+Two migration guides...
+
+An unnecessary event bus...
+
+And a benchmarking framework...
+
+Your original request still waits patiently.
+
+Please change the button text.
+
+Thank you for using DeepWaiting.
+
+We'll see you after the next refactor.

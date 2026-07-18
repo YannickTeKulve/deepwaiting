@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DeepWaiting</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <!-- Start screen (browsers require a user gesture before audio plays) -->
+      <section id="start" class="screen">
+        <h1 class="brand">DeepWaiting</h1>
+        <p class="tagline">Mindfulness for developers waiting on AI.</p>
+        <button id="begin" class="begin">Begin</button>
+      </section>
+
+      <!-- Player: shows the currently spoken sentence, one at a time -->
+      <section id="player" class="screen hidden">
+        <p id="stage" class="stage"></p>
+
+        <section id="finished" class="finished hidden">
+          <p class="finished-text">Namaste.</p>
+          <button id="replay" class="begin">Opnieuw</button>
+        </section>
+
+        <div class="progress">
+          <div id="progress-bar" class="progress-bar"></div>
+        </div>
+      </section>
+    </main>
+
+    <audio id="audio" preload="auto"></audio>
+    <script src="app.js"></script>
+  </body>
+</html>
