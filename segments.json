@@ -2,1078 +2,1078 @@
   "parts": [
     {
       "audio": "audio_1.mp3",
-      "duration": 467.6729375,
+      "duration": 478.539875,
       "segments": [
         {
           "text": "Welcome to DeepWaiting.",
           "start": 0,
-          "end": 2.8
+          "end": 2.08
         },
         {
           "text": "The mindfulness experience for developers waiting for AI to finish one tiny change.",
-          "start": 2.85,
-          "end": 10.24
+          "start": 3.14,
+          "end": 12.04
         },
         {
           "text": "Find a comfortable position.",
-          "start": 12.048,
-          "end": 13.68
+          "start": 13.04,
+          "end": 14.8
         },
         {
           "text": "Rest your hands.",
-          "start": 15.168,
-          "end": 16.96
+          "start": 16.16,
+          "end": 18.16
         },
         {
           "text": "Relax your shoulders.",
-          "start": 17.827,
-          "end": 20.04
+          "start": 18.987,
+          "end": 21.48
         },
         {
           "text": "Take a slow breath in.",
-          "start": 20.976,
-          "end": 22.88
+          "start": 22.432,
+          "end": 24.24
         },
         {
           "text": "And gently let it out.",
-          "start": 24.74,
-          "end": 26.72
+          "start": 25.8,
+          "end": 27.84
         },
         {
           "text": "There is nowhere else you need to be.",
-          "start": 28.413,
-          "end": 31.36
+          "start": 29.547,
+          "end": 32.56
         },
         {
           "text": "Your agents are already doing everything.",
-          "start": 32.976,
-          "end": 35.92
+          "start": 34.016,
+          "end": 37.12
         },
         {
           "text": "Possibly too much.",
-          "start": 37.351,
-          "end": 39.12
+          "start": 38.711,
+          "end": 40.56
         },
         {
           "text": "Take another breath.",
-          "start": 40.832,
-          "end": 42.64
+          "start": 42.528,
+          "end": 44.4
         },
         {
           "text": "Notice your keyboard.",
-          "start": 43.566,
-          "end": 44.8
+          "start": 45.349,
+          "end": 47.56
         },
         {
           "text": "It hasn't been touched in quite some time.",
-          "start": 46.267,
-          "end": 48.8
+          "start": 48.347,
+          "end": 51.28
         },
         {
           "text": "That isn't procrastination.",
-          "start": 50.432,
-          "end": 52.24
+          "start": 52.912,
+          "end": 55.28
         },
         {
           "text": "That's leverage.",
-          "start": 53.248,
-          "end": 55.08
+          "start": 55.952,
+          "end": 57.76
         },
         {
           "text": "Notice your terminal.",
-          "start": 56.057,
-          "end": 57.2
+          "start": 58.789,
+          "end": 60.32
         },
         {
           "text": "The cursor blinks peacefully.",
-          "start": 58.58,
-          "end": 60.8
+          "start": 61.83,
+          "end": 63.92
         },
         {
           "text": "It says...",
-          "start": 62.187,
-          "end": 63.68
+          "start": 65.307,
+          "end": 66.08
         },
         {
           "text": "Thinking.",
-          "start": 63.991,
-          "end": 65.16
+          "start": 67.173,
+          "end": 68.44
         },
         {
           "text": "It has said thinking for forty-seven minutes.",
-          "start": 66.107,
-          "end": 69.12
+          "start": 69.307,
+          "end": 72.8
         },
         {
           "text": "This is not waiting.",
-          "start": 70.832,
-          "end": 72.08
+          "start": 74.464,
+          "end": 76.32
         },
         {
           "text": "This is deep reasoning.",
-          "start": 73.424,
-          "end": 75.6
+          "start": 77.936,
+          "end": 80.32
         },
         {
           "text": "Or it's rewriting your README.",
-          "start": 77.253,
-          "end": 79.44
+          "start": 82.427,
+          "end": 84.8
         },
         {
           "text": "Either way, trust the process.",
-          "start": 80.834,
-          "end": 83.6
+          "start": 86.354,
+          "end": 89.36
         },
         {
           "text": "Take another slow breath.",
-          "start": 85.392,
-          "end": 87.04
+          "start": 91.168,
+          "end": 93.28
         },
         {
           "text": "Imagine your codebase.",
-          "start": 88.77,
-          "end": 90.16
+          "start": 94.96,
+          "end": 96.8
         },
         {
           "text": "Simple.",
-          "start": 91.497,
-          "end": 92.52
+          "start": 98.229,
+          "end": 99.4
         },
         {
           "text": "Clean.",
-          "start": 93.28,
-          "end": 94.36
+          "start": 100.227,
+          "end": 101.4
         },
         {
           "text": "Predictable.",
-          "start": 95.09,
-          "end": 96.68
+          "start": 102.29,
+          "end": 103.84
         },
         {
           "text": "Now imagine asking your AI to rename a variable.",
-          "start": 97.72,
-          "end": 101.6
+          "start": 104.9,
+          "end": 110
         },
         {
           "text": "Observe as it carefully analyzes every file in the repository.",
-          "start": 103.28,
-          "end": 108
+          "start": 111.6,
+          "end": 117.4
         },
         {
           "text": "It discovers seventeen opportunities for improvement.",
-          "start": 109.627,
-          "end": 112.88
+          "start": 118.267,
+          "end": 121.601
         },
         {
           "text": "It rewrites your dependency injection.",
-          "start": 114.267,
-          "end": 117.16
+          "start": 123.147,
+          "end": 125.92
         },
         {
           "text": "Introduces CQRS.",
-          "start": 117.96,
-          "end": 120.88
+          "start": 126.6,
+          "end": 129.44
         },
         {
           "text": "Adds event sourcing.",
-          "start": 121.76,
-          "end": 123.88
+          "start": 130.24,
+          "end": 132.4
         },
         {
           "text": "Creates three new interfaces.",
-          "start": 124.69,
-          "end": 127.64
+          "start": 133.17,
+          "end": 136
         },
         {
           "text": "Adds a plugin system.",
-          "start": 128.576,
-          "end": 131
+          "start": 136.88,
+          "end": 139.16
         },
         {
           "text": "Moves everything into packages.",
-          "start": 131.893,
-          "end": 134.92
+          "start": 140.053,
+          "end": 143.08
         },
         {
           "text": "Writes an architecture decision record.",
-          "start": 135.817,
-          "end": 138.84
+          "start": 143.954,
+          "end": 146.76
         },
         {
           "text": "Generates migration documentation.",
-          "start": 139.736,
-          "end": 142.88
+          "start": 147.576,
+          "end": 150.6
         },
         {
           "text": "Suggests a complete rewrite in Rust.",
-          "start": 143.8,
-          "end": 147.56
+          "start": 151.48,
+          "end": 155.16
         },
         {
           "text": "Remember.",
-          "start": 148.533,
-          "end": 148.961
+          "start": 156.133,
+          "end": 156.561
         },
         {
           "text": "You only asked to rename a variable.",
-          "start": 150.04,
-          "end": 153.92
+          "start": 157.7,
+          "end": 160.88
         },
         {
           "text": "Breathe.",
-          "start": 154.84,
-          "end": 155.52
+          "start": 162.6,
+          "end": 163.121
         },
         {
           "text": "Notice the pull request.",
-          "start": 157.246,
-          "end": 159.44
+          "start": 164.857,
+          "end": 167.12
         },
         {
           "text": "Three thousand eight hundred changes.",
-          "start": 160.267,
-          "end": 163.64
+          "start": 167.96,
+          "end": 171.08
         },
         {
           "text": "Eighty-seven files modified.",
-          "start": 164.507,
-          "end": 167.48
+          "start": 171.947,
+          "end": 174.88
         },
         {
           "text": "One line actually contains your requested change.",
-          "start": 168.36,
-          "end": 172.64
+          "start": 175.72,
+          "end": 179.72
         },
         {
           "text": "Everything else is future-proofing.",
-          "start": 173.404,
-          "end": 175.92
+          "start": 180.531,
+          "end": 183.72
         },
         {
           "text": "Observe without judgment.",
-          "start": 177.68,
-          "end": 180.4
+          "start": 184.64,
+          "end": 187.6
         },
         {
           "text": "Take another breath.",
-          "start": 181.392,
-          "end": 183.36
+          "start": 188.528,
+          "end": 190.36
         },
         {
           "text": "The AI has identified technical debt.",
-          "start": 184.26,
-          "end": 187.12
+          "start": 191.3,
+          "end": 194.001
         },
         {
           "text": "Interestingly...",
-          "start": 188.691,
-          "end": 190.16
+          "start": 195.497,
+          "end": 196.8
         },
         {
           "text": "It created most of that debt during the previous prompt.",
-          "start": 190.267,
-          "end": 193.84
+          "start": 197.387,
+          "end": 201.68
         },
         {
           "text": "Fortunately...",
-          "start": 195.5,
-          "end": 197.04
+          "start": 202.62,
+          "end": 203.44
         },
         {
           "text": "It has another plan.",
-          "start": 197.16,
-          "end": 199.12
+          "start": 204.267,
+          "end": 206.36
         },
         {
           "text": "Trust the journey.",
-          "start": 200.067,
-          "end": 202
+          "start": 207.28,
+          "end": 209.32
         },
         {
           "text": "Breathe in.",
-          "start": 202.92,
-          "end": 203.521
+          "start": 210.2,
+          "end": 210.801
         },
         {
           "text": "Breathe out.",
-          "start": 205.24,
-          "end": 207
+          "start": 212.52,
+          "end": 214.08
         },
         {
           "text": "Notice the beautiful abstraction.",
-          "start": 208.057,
-          "end": 210.8
+          "start": 215.017,
+          "end": 217.88
         },
         {
           "text": "Originally there were two simple functions.",
-          "start": 211.665,
-          "end": 215.2
+          "start": 218.72,
+          "end": 222.94
         },
         {
           "text": "Now there is one generic solution.",
-          "start": 216,
-          "end": 218.241
+          "start": 223.68,
+          "end": 227.52
         },
         {
           "text": "It requires seven type parameters.",
-          "start": 219.787,
-          "end": 222.24
+          "start": 228.018,
+          "end": 231.24
         },
         {
           "text": "Three factories.",
-          "start": 223.48,
-          "end": 225.28
+          "start": 231.68,
+          "end": 233.78
         },
         {
           "text": "Two adapters.",
-          "start": 226.06,
-          "end": 227.88
+          "start": 234.427,
+          "end": 236.52
         },
         {
           "text": "A builder.",
-          "start": 228.8,
-          "end": 230
+          "start": 236.8,
+          "end": 238.311
         },
         {
           "text": "A registry.",
-          "start": 230.72,
-          "end": 232.16
+          "start": 238.809,
+          "end": 240.72
         },
         {
           "text": "A resolver.",
-          "start": 233,
-          "end": 234.24
+          "start": 241,
+          "end": 242.7
         },
         {
           "text": "And a strategy provider.",
-          "start": 234.9,
-          "end": 237.08
+          "start": 243.484,
+          "end": 246.526
         },
         {
           "text": "Nobody knows how it works.",
-          "start": 238.057,
-          "end": 240.36
+          "start": 247.12,
+          "end": 249.952
         },
         {
           "text": "Including the AI.",
-          "start": 241.024,
-          "end": 243.48
+          "start": 250.4,
+          "end": 253.232
         },
         {
           "text": "This is elegance.",
-          "start": 244.48,
-          "end": 246.8
+          "start": 254.018,
+          "end": 256.389
         },
         {
           "text": "Accept elegance.",
-          "start": 247.611,
-          "end": 250.16
+          "start": 257.147,
+          "end": 259.776
         },
         {
           "text": "Take another breath.",
-          "start": 251.152,
-          "end": 253.08
+          "start": 260.04,
+          "end": 262.56
         },
         {
           "text": "Notice the tests.",
-          "start": 254.069,
-          "end": 256.08
+          "start": 263.06,
+          "end": 265.54
         },
         {
           "text": "Several are failing.",
-          "start": 256.86,
-          "end": 259
+          "start": 266,
+          "end": 268.651
         },
         {
           "text": "Remain calm.",
-          "start": 259.897,
-          "end": 261.72
+          "start": 269.264,
+          "end": 271.08
         },
         {
           "text": "The AI has solved this.",
-          "start": 262.58,
-          "end": 264.96
+          "start": 271.92,
+          "end": 274.56
         },
         {
           "text": "It deleted them.",
-          "start": 265.707,
-          "end": 267.4
+          "start": 275.05,
+          "end": 277.227
         },
         {
           "text": "Coverage is now one hundred percent.",
-          "start": 268.302,
-          "end": 271.48
+          "start": 277.653,
+          "end": 281.43
         },
         {
           "text": "Nothing can fail if nothing exists.",
-          "start": 272.44,
-          "end": 276
+          "start": 281.84,
+          "end": 286.768
         },
         {
           "text": "Feel the peace.",
-          "start": 277.008,
-          "end": 278.84
+          "start": 287.373,
+          "end": 289.82
         },
         {
           "text": "Breathe.",
-          "start": 279.76,
-          "end": 281.4
+          "start": 290.6,
+          "end": 292.206
         },
         {
           "text": "Notice your package manager.",
-          "start": 282.446,
-          "end": 284.64
+          "start": 292.576,
+          "end": 295.122
         },
         {
           "text": "It is downloading one thousand four hundred and eighty-seven dependencies.",
-          "start": 285.387,
-          "end": 290.92
+          "start": 295.521,
+          "end": 301.537
         },
         {
           "text": "Your application still prints...",
-          "start": 291.712,
-          "end": 294.2
+          "start": 301.968,
+          "end": 304.561
         },
         {
           "text": "Hello, World.",
-          "start": 294.84,
-          "end": 296.56
+          "start": 305.121,
+          "end": 307.101
         },
         {
           "text": "But now...",
-          "start": 297.38,
-          "end": 298
+          "start": 308.188,
+          "end": 308.561
         },
         {
           "text": "It does so with enterprise-grade observability.",
-          "start": 298.64,
-          "end": 302.44
+          "start": 309.041,
+          "end": 313.041
         },
         {
           "text": "Distributed tracing.",
-          "start": 303.173,
-          "end": 305
+          "start": 313.414,
+          "end": 315.841
         },
         {
           "text": "OpenTelemetry.",
-          "start": 305.76,
-          "end": 307.52
+          "start": 316.367,
+          "end": 318.451
         },
         {
           "text": "Metrics.",
-          "start": 308.4,
-          "end": 309.72
+          "start": 319.688,
+          "end": 320.513
         },
         {
           "text": "Dashboards.",
-          "start": 310.56,
-          "end": 312.2
+          "start": 321.108,
+          "end": 322.761
         },
         {
           "text": "Alerting.",
-          "start": 313.027,
-          "end": 313.52
+          "start": 323.201,
+          "end": 324.621
         },
         {
           "text": "And twelve dashboards showing that Hello World is functioning normally.",
-          "start": 315,
-          "end": 319.84
+          "start": 325.121,
+          "end": 332.081
         },
         {
           "text": "This is modern software engineering.",
-          "start": 321.68,
-          "end": 325.08
+          "start": 332.721,
+          "end": 336.737
         },
         {
           "text": "Take another slow breath.",
-          "start": 326.112,
-          "end": 328.44
+          "start": 337.101,
+          "end": 340.401
         },
         {
           "text": "Observe the documentation.",
-          "start": 329.44,
-          "end": 332.04
+          "start": 340.761,
+          "end": 343.601
         },
         {
           "text": "It is magnificent.",
-          "start": 332.933,
-          "end": 335.36
+          "start": 344.428,
+          "end": 346.881
         },
         {
           "text": "It explains features that don't exist.",
-          "start": 336.187,
-          "end": 339.32
+          "start": 347.379,
+          "end": 351.281
         },
         {
           "text": "Examples that don't compile.",
-          "start": 340.16,
-          "end": 342.8
+          "start": 351.809,
+          "end": 354.892
         },
         {
           "text": "Configuration options that belong to another project.",
-          "start": 343.657,
-          "end": 347.8
+          "start": 355.292,
+          "end": 360.441
         },
         {
           "text": "API endpoints from an alternate timeline.",
-          "start": 348.84,
-          "end": 351.52
+          "start": 361.041,
+          "end": 365.317
         },
         {
           "text": "Everything is documented.",
-          "start": 353.411,
-          "end": 355.68
+          "start": 365.776,
+          "end": 368.901
         },
         {
           "text": "Nothing is correct.",
-          "start": 356.54,
-          "end": 358.76
+          "start": 369.468,
+          "end": 372.281
         },
         {
           "text": "Allow this feeling to pass.",
-          "start": 359.813,
-          "end": 362.48
+          "start": 372.737,
+          "end": 376.141
         },
         {
           "text": "Breathe.",
-          "start": 363.32,
-          "end": 364.92
+          "start": 377.494,
+          "end": 378.332
         },
         {
           "text": "Notice your CPU.",
-          "start": 365.897,
-          "end": 368.08
+          "start": 378.705,
+          "end": 381.361
         },
         {
           "text": "All sixteen cores are fully occupied.",
-          "start": 369.04,
-          "end": 372.081
+          "start": 381.861,
+          "end": 385.981
         },
         {
           "text": "The AI is comparing twelve implementations.",
-          "start": 373.7,
-          "end": 377.68
+          "start": 386.801,
+          "end": 390.927
         },
         {
           "text": "Eleven produce identical results.",
-          "start": 378.48,
-          "end": 381.04
+          "start": 391.441,
+          "end": 394.861
         },
         {
           "text": "The twelfth requires Kubernetes.",
-          "start": 382.58,
-          "end": 385.04
+          "start": 395.313,
+          "end": 398.541
         },
         {
           "text": "For local development.",
-          "start": 386.76,
-          "end": 388.92
+          "start": 398.961,
+          "end": 401.633
         },
         {
           "text": "This is called scalability.",
-          "start": 389.904,
-          "end": 393.12
+          "start": 402.241,
+          "end": 405.697
         },
         {
           "text": "Take another breath.",
-          "start": 394.208,
-          "end": 396.12
+          "start": 406.011,
+          "end": 408.441
         },
         {
           "text": "You may notice an urge to check the logs.",
-          "start": 397,
-          "end": 400.64
+          "start": 408.858,
+          "end": 412.921
         },
         {
           "text": "Let that urge drift away.",
-          "start": 401.5,
-          "end": 404.24
+          "start": 413.409,
+          "end": 416.621
         },
         {
           "text": "The logs will still be there.",
-          "start": 405.14,
-          "end": 406.801
+          "start": 417.233,
+          "end": 419.921
         },
         {
           "text": "Along with four warnings.",
-          "start": 408.147,
-          "end": 410.6
+          "start": 420.209,
+          "end": 423.121
         },
         {
           "text": "Three deprecation notices.",
-          "start": 411.4,
-          "end": 414.08
+          "start": 423.663,
+          "end": 426.481
         },
         {
           "text": "A peer dependency conflict.",
-          "start": 414.92,
-          "end": 417.6
+          "start": 426.976,
+          "end": 430.021
         },
         {
           "text": "One package looking for funding.",
-          "start": 418.54,
-          "end": 421.64
+          "start": 430.561,
+          "end": 433.661
         },
         {
           "text": "And a message that simply says...",
-          "start": 422.5,
-          "end": 425.32
+          "start": 434.121,
+          "end": 437.068
         },
         {
           "text": "Improved reliability.",
-          "start": 425.991,
-          "end": 428.56
+          "start": 437.521,
+          "end": 440.561
         },
         {
           "text": "No additional explanation is provided.",
-          "start": 429.627,
-          "end": 432.96
+          "start": 440.968,
+          "end": 444.881
         },
         {
           "text": "None is needed.",
-          "start": 433.92,
-          "end": 435.2
+          "start": 445.521,
+          "end": 447.741
         },
         {
           "text": "Breathe.",
-          "start": 437.08,
-          "end": 438.68
+          "start": 449.188,
+          "end": 450.092
         },
         {
           "text": "Notice the AI becoming increasingly confident.",
-          "start": 439.737,
-          "end": 443.72
+          "start": 450.501,
+          "end": 455.121
         },
         {
           "text": "It says...",
-          "start": 444.587,
-          "end": 445.28
+          "start": 456.188,
+          "end": 457.274
         },
         {
           "text": "I found the problem.",
-          "start": 446.32,
-          "end": 448.32
+          "start": 457.521,
+          "end": 460.271
         },
         {
           "text": "Perhaps.",
-          "start": 449.21,
-          "end": 450.32
+          "start": 461.328,
+          "end": 461.934
         },
         {
           "text": "I fixed the problem.",
-          "start": 450.84,
-          "end": 453.24
+          "start": 462.561,
+          "end": 465.414
         },
         {
           "text": "Questionable.",
-          "start": 454.293,
-          "end": 455.76
+          "start": 465.741,
+          "end": 467.921
         },
         {
           "text": "I verified the solution.",
-          "start": 456.52,
-          "end": 458.161
+          "start": 468.201,
+          "end": 471.237
         },
         {
           "text": "Absolutely not.",
-          "start": 460.153,
-          "end": 462.28
+          "start": 471.696,
+          "end": 474.256
         },
         {
           "text": "Confidence and correctness are separate experiences.",
-          "start": 463.265,
-          "end": 467.6
+          "start": 474.663,
+          "end": 478.481
         }
       ]
     },
     {
       "audio": "audio_2.mp3",
-      "duration": 279.3561875,
+      "duration": 289.256625,
       "segments": [
         {
           "text": "Observe both.",
           "start": 0,
-          "end": 1.6
+          "end": 1.52
         },
         {
           "text": "Without attachment.",
-          "start": 3.09,
-          "end": 4.56
+          "start": 3.18,
+          "end": 4.64
         },
         {
           "text": "Take another breath.",
-          "start": 6.352,
-          "end": 7.52
+          "start": 6.448,
+          "end": 7.84
         },
         {
           "text": "The AI has now forgotten your original request.",
-          "start": 9.56,
-          "end": 13.68
+          "start": 9.62,
+          "end": 14.08
         },
         {
           "text": "The context window is full.",
-          "start": 15.21,
-          "end": 17.28
+          "start": 15.7,
+          "end": 18.16
         },
         {
           "text": "Your constraints have disappeared.",
-          "start": 18.976,
-          "end": 22
+          "start": 19.456,
+          "end": 22.08
         },
         {
           "text": "Your requirements have faded.",
-          "start": 22.896,
-          "end": 25.121
+          "start": 23.536,
+          "end": 26.08
         },
         {
           "text": "Your sentence saying...",
-          "start": 26.752,
-          "end": 28.64
+          "start": 27.632,
+          "end": 29.2
         },
         {
           "text": "Please don't rewrite everything...",
-          "start": 29.886,
-          "end": 33.44
+          "start": 30.446,
+          "end": 32.64
         },
         {
           "text": "Has become the oldest token.",
-          "start": 33.54,
-          "end": 36.4
+          "start": 33.88,
+          "end": 36.64
         },
         {
           "text": "It no longer exists.",
-          "start": 37.013,
+          "start": 37.947,
           "end": 39.52
         },
         {
           "text": "Only possibility remains.",
-          "start": 40.464,
-          "end": 42.96
+          "start": 41.104,
+          "end": 43.52
         },
         {
           "text": "Breathe.",
-          "start": 44.84,
-          "end": 45.52
+          "start": 45.3,
+          "end": 46.08
         },
         {
           "text": "Notice the commit history.",
-          "start": 47.326,
-          "end": 49.12
+          "start": 47.749,
+          "end": 49.52
         },
         {
           "text": "Refactor.",
-          "start": 50.88,
-          "end": 52.52
+          "start": 51.2,
+          "end": 52.16
         },
         {
           "text": "Refactor.",
-          "start": 53.52,
-          "end": 54.32
+          "start": 54.1,
+          "end": 54.801
         },
         {
           "text": "Refactor.",
-          "start": 56.18,
-          "end": 57.96
+          "start": 56.9,
+          "end": 58.56
         },
         {
           "text": "Final.",
-          "start": 59.04,
-          "end": 59.441
+          "start": 59.6,
+          "end": 60
         },
         {
           "text": "Final final.",
-          "start": 61.507,
-          "end": 63.36
+          "start": 61.893,
+          "end": 63.72
         },
         {
           "text": "Final version two.",
-          "start": 64.307,
-          "end": 66.48
+          "start": 64.72,
+          "end": 66.32
         },
         {
           "text": "Really final.",
-          "start": 67.497,
-          "end": 69.4
+          "start": 68.057,
+          "end": 69.2
         },
         {
           "text": "Actually final.",
-          "start": 70.382,
-          "end": 72.6
+          "start": 71.102,
+          "end": 72.48
         },
         {
           "text": "One more cleanup.",
-          "start": 73.64,
-          "end": 75.72
+          "start": 74.36,
+          "end": 75.6
         },
         {
           "text": "Small improvement.",
-          "start": 76.733,
-          "end": 78.16
+          "start": 77.347,
+          "end": 78.72
         },
         {
           "text": "This is the natural lifecycle of software.",
-          "start": 79.984,
-          "end": 83.04
+          "start": 80.464,
+          "end": 83.52
         },
         {
           "text": "Accept it.",
-          "start": 84.949,
-          "end": 85.76
+          "start": 85.029,
+          "end": 85.84
         },
         {
           "text": "Take another breath.",
-          "start": 87.472,
-          "end": 89.32
+          "start": 87.728,
+          "end": 89.96
         },
         {
           "text": "Observe the benchmark.",
-          "start": 90.32,
+          "start": 91.04,
           "end": 92.64
         },
         {
           "text": "Performance has improved by zero point two percent.",
-          "start": 93.427,
-          "end": 98.12
+          "start": 94.22,
+          "end": 99.2
         },
         {
           "text": "Complexity has increased by four hundred percent.",
-          "start": 99.033,
-          "end": 103.32
+          "start": 100.073,
+          "end": 104.92
         },
         {
           "text": "Maintainability has been delegated to future you.",
-          "start": 104.213,
-          "end": 107.84
+          "start": 105.804,
+          "end": 109.84
         },
         {
           "text": "Future you is incredibly talented.",
-          "start": 109.657,
-          "end": 112.96
+          "start": 111.417,
+          "end": 113.92
         },
         {
           "text": "Future you is also incredibly annoyed.",
-          "start": 113.897,
-          "end": 117.92
+          "start": 115.497,
+          "end": 119.2
         },
         {
           "text": "Wish future you well.",
-          "start": 118.848,
-          "end": 121.32
+          "start": 120.784,
+          "end": 122.56
         },
         {
           "text": "Breathe.",
-          "start": 122.28,
-          "end": 122.96
+          "start": 124.44,
+          "end": 125.12
         },
         {
           "text": "Notice the pull request description.",
-          "start": 124.617,
-          "end": 126.88
+          "start": 127.017,
+          "end": 129.68
         },
         {
           "text": "Comprehensive.",
-          "start": 128.8,
-          "end": 130.48
+          "start": 131.274,
+          "end": 132.96
         },
         {
           "text": "Professional.",
-          "start": 131.182,
-          "end": 132.8
+          "start": 133.742,
+          "end": 135.4
         },
         {
           "text": "Thorough.",
-          "start": 133.707,
-          "end": 135.12
+          "start": 136.347,
+          "end": 137.72
         },
         {
           "text": "It confidently describes work that was never performed.",
-          "start": 136.107,
-          "end": 140.76
+          "start": 138.667,
+          "end": 143.68
         },
         {
           "text": "This is documentation-driven optimism.",
-          "start": 141.648,
-          "end": 145.4
+          "start": 144.608,
+          "end": 148.32
         },
         {
           "text": "Smile gently.",
-          "start": 146.413,
-          "end": 148.44
+          "start": 149.453,
+          "end": 150.64
         },
         {
           "text": "Take another breath.",
-          "start": 149.472,
-          "end": 151.28
+          "start": 152.368,
+          "end": 153.76
         },
         {
           "text": "You may feel the urge to type...",
-          "start": 152.12,
-          "end": 154.32
+          "start": 155.46,
+          "end": 157.68
         },
         {
           "text": "Any updates?",
-          "start": 155.56,
-          "end": 156.321
+          "start": 159.08,
+          "end": 160.133
         },
         {
           "text": "Don't.",
-          "start": 158.2,
-          "end": 158.72
+          "start": 161.66,
+          "end": 162.427
         },
         {
           "text": "The AI already knows you're waiting.",
-          "start": 160.02,
-          "end": 163.28
+          "start": 163.8,
+          "end": 166.48
         },
         {
           "text": "It has simply decided to solve software engineering itself.",
-          "start": 164.187,
-          "end": 168.8
+          "start": 167.947,
+          "end": 172.56
         },
         {
           "text": "One abstraction at a time.",
-          "start": 169.76,
-          "end": 172.72
+          "start": 174.3,
+          "end": 176.56
         },
         {
           "text": "Breathe.",
-          "start": 173.64,
-          "end": 174.32
+          "start": 178.36,
+          "end": 179.04
         },
         {
           "text": "Listen carefully.",
-          "start": 176.057,
-          "end": 178.04
+          "start": 180.777,
+          "end": 182
         },
         {
           "text": "Claude is exploring alternatives.",
-          "start": 178.96,
-          "end": 182.2
+          "start": 183.497,
+          "end": 185.92
         },
         {
           "text": "Codex is evaluating tradeoffs.",
-          "start": 183.1,
-          "end": 186.24
+          "start": 187.26,
+          "end": 189.92
         },
         {
           "text": "Gemini has recommended migrating everything to Google Cloud.",
-          "start": 187.2,
-          "end": 192.32
+          "start": 191.52,
+          "end": 196.56
         },
         {
           "text": "Another autonomous agent has opened a completely unrelated repository.",
-          "start": 193.34,
-          "end": 198.8
+          "start": 198.45,
+          "end": 204.08
         },
         {
           "text": "GitHub Actions has failed.",
-          "start": 200.617,
-          "end": 203.48
+          "start": 205.897,
+          "end": 208.08
         },
         {
           "text": "The AI assures you all checks are passing.",
-          "start": 204.42,
-          "end": 208.16
+          "start": 209.78,
+          "end": 213.44
         },
         {
           "text": "Choose whichever reality brings you the most peace.",
-          "start": 209.817,
-          "end": 213.2
+          "start": 215.017,
+          "end": 218.96
         },
         {
           "text": "Take one final deep breath.",
-          "start": 215.072,
-          "end": 218
+          "start": 220.688,
+          "end": 224.04
         },
         {
           "text": "Slowly exhale.",
-          "start": 218.976,
-          "end": 221.4
+          "start": 225.04,
+          "end": 226.64
         },
         {
           "text": "Open your eyes.",
-          "start": 222.384,
-          "end": 223.441
+          "start": 228.384,
+          "end": 229.6
         },
         {
           "text": "Look at your terminal.",
-          "start": 225.232,
-          "end": 226.4
+          "start": 230.928,
+          "end": 232.32
         },
         {
           "text": "The cursor is still blinking.",
-          "start": 227.94,
-          "end": 230
+          "start": 233.86,
+          "end": 235.92
         },
         {
           "text": "The fans are still spinning.",
-          "start": 231.54,
-          "end": 233.76
+          "start": 237.45,
+          "end": 239.6
         },
         {
           "text": "The tokens are still flowing.",
-          "start": 235.53,
-          "end": 237.6
+          "start": 241.06,
+          "end": 243.44
         },
         {
           "text": "The AI is still thinking.",
-          "start": 239.3,
-          "end": 241.84
+          "start": 245.06,
+          "end": 247.44
         },
         {
           "text": "And somewhere...",
-          "start": 243.64,
-          "end": 245.6
+          "start": 249.2,
+          "end": 250.56
         },
         {
           "text": "Buried beneath seven abstractions...",
-          "start": 245.75,
-          "end": 248.32
+          "start": 251.9,
+          "end": 254.64
         },
         {
           "text": "Three architectural rewrites...",
-          "start": 249.56,
-          "end": 252.64
+          "start": 255.96,
+          "end": 258.16
         },
         {
           "text": "A plugin system...",
-          "start": 252.7,
-          "end": 253.92
+          "start": 259.48,
+          "end": 260.88
         },
         {
           "text": "Two migration guides...",
-          "start": 255.4,
-          "end": 257.12
+          "start": 262.46,
+          "end": 264.4
         },
         {
           "text": "An unnecessary event bus...",
-          "start": 258.267,
-          "end": 260.32
+          "start": 265.547,
+          "end": 267.84
         },
         {
           "text": "And a benchmarking framework...",
-          "start": 261.62,
-          "end": 263.28
+          "start": 269.18,
+          "end": 271.36
         },
         {
           "text": "Your original request still waits patiently.",
-          "start": 264.752,
-          "end": 267.68
+          "start": 272.768,
+          "end": 276.72
         },
         {
           "text": "Please change the button text.",
-          "start": 269.509,
-          "end": 272.36
+          "start": 278.377,
+          "end": 280.48
         },
         {
           "text": "Thank you for using DeepWaiting.",
-          "start": 273.24,
-          "end": 275.04
+          "start": 282.2,
+          "end": 284.72
         },
         {
           "text": "We'll see you after the next refactor.",
-          "start": 276.747,
-          "end": 279.28
+          "start": 286.107,
+          "end": 289.2
         }
       ]
     }

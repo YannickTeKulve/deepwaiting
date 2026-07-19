@@ -7,22 +7,22 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+    <!-- Accumulating chaos lives here, behind the calm centre. Non-interactive. -->
+    <div id="chaos" aria-hidden="true"></div>
+
     <main>
       <!-- Start screen (browsers require a user gesture before audio plays) -->
       <section id="start" class="screen">
         <h1 class="brand">DeepWaiting</h1>
         <p class="tagline">Mindfulness for developers waiting on AI.</p>
         <button id="begin" class="begin">Begin</button>
+        <p class="sound-hint">🔊 Turn your sound on</p>
       </section>
 
-      <!-- Player: shows the currently spoken sentence, one at a time -->
+      <!-- Player: the calm "eye of the storm" — breathing circle + current line -->
       <section id="player" class="screen hidden">
+        <div id="breathing" class="breathing hidden" aria-hidden="true"></div>
         <p id="stage" class="stage"></p>
-
-        <section id="finished" class="finished hidden">
-          <p class="finished-text">Namaste.</p>
-          <button id="replay" class="begin">Opnieuw</button>
-        </section>
 
         <div class="progress">
           <div id="progress-bar" class="progress-bar"></div>
@@ -30,7 +30,15 @@
       </section>
     </main>
 
+    <!-- Finale: everything fades to white, one blinking cursor remains -->
+    <section id="finale" class="finale hidden" aria-hidden="true">
+      <p class="finale-cursor">Thinking<span class="dots"></span></p>
+      <p id="eta" class="eta hidden">Estimated completion time:<br />2 minutes.</p>
+      <button id="replay" class="replay hidden">Opnieuw</button>
+    </section>
+
     <audio id="audio" preload="auto"></audio>
+    <script src="chaos.js"></script>
     <script src="app.js"></script>
   </body>
 </html>
