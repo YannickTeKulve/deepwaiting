@@ -106,6 +106,20 @@ main {
   color: var(--text-soft);
 }
 
+/* --- GitHub link (start screen + finale) --- */
+
+.github-link {
+  display: inline-flex;
+  margin-top: 1.4rem;
+  color: var(--text-soft);
+  transition: color 0.2s ease;
+  cursor: pointer;
+}
+
+.github-link:hover {
+  color: var(--text);
+}
+
 /* --- Player --- */
 
 .stage {
@@ -574,6 +588,13 @@ main {
 .replay:hover {
   color: #333;
   border-color: #999;
+}
+.finale .github-link {
+  margin-top: 0;
+  color: #888;
+}
+.finale .github-link:hover {
+  color: #333;
 }
 
 @media (prefers-reduced-motion: reduce) {
