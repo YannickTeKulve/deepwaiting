@@ -5,7 +5,7 @@ const startScreen = document.getElementById("start");
 const playerScreen = document.getElementById("player");
 const beginBtn = document.getElementById("begin");
 const replayBtn = document.getElementById("replay");
-const finished = document.getElementById("finished");
+const finaleEl = document.getElementById("finale");
 const stage = document.getElementById("stage");
 const progressBar = document.getElementById("progress-bar");
 const audio = document.getElementById("audio");
@@ -66,6 +66,9 @@ function onTimeUpdate() {
   const index = segmentAt(t);
   if (index !== -1) showSentence(index);
 
+  // Drive the accumulating chaos from the global playback position.
+  Chaos.update(priorDuration + t);
+
   if (totalDuration) {
     progressBar.style.width = `${((priorDuration + t) / totalDuration) * 100}%`;
   }
@@ -74,11 +77,13 @@ function onTimeUpdate() {
 function start() {
   startScreen.classList.add("hidden");
   playerScreen.classList.remove("hidden");
+  Chaos.reset();
   startPart(0);
 }
 
 function replay() {
-  finished.classList.add("hidden");
+  replayBtn.classList.add("hidden");
+  Chaos.reset();
   startPart(0);
 }
 
@@ -97,24 +102,26 @@ audio.addEventListener("ended", () => {
     startPart(partIndex + 1);
     return;
   }
+  // The white-out finale is normally triggered by the timeline; ensure it's up
+  // (e.g. on very short audio) and reveal the replay affordance.
   stage.classList.remove("visible");
-  finished.classList.remove("hidden");
+  Chaos.finale();
+  replayBtn.classList.remove("hidden");
 });
 
 beginBtn.addEventListener("click", start);
 replayBtn.addEventListener("click", replay);
 
 playerScreen.addEventListener("click", (e) => {
-  // Don't treat the replay button as a pause toggle.
-  if (e.target === replayBtn) return;
-  if (!finished.classList.contains("hidden")) return;
+  // Don't toggle pause once the finale is showing.
+  if (!finaleEl.classList.contains("hidden")) return;
   togglePause();
 });
 
 document.addEventListener("keydown", (e) => {
   if (e.code === "Space" && !playerScreen.classList.contains("hidden")) {
     e.preventDefault();
-    if (finished.classList.contains("hidden")) togglePause();
+    if (finaleEl.classList.contains("hidden")) togglePause();
   }
 });
 
